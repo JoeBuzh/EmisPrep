@@ -134,5 +134,7 @@ dmypy.json
 /output
 
 # jupyter
-*.ipynb
+#*.ipynb
 
+# nc
+*.ncf
